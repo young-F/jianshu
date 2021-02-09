@@ -1,0 +1,9 @@
+export const SEARCH_FOCUS = "SEARCH_FOCUS";
+export const SEARCH_BLUR = "SEARCH_BLUR";
+export const SEARCH_LIST = "SEARCH_LIST";
+export const MOUSENTER_SHOW = "MOUSENTER_SHOW";
+export const MOUSELEAVE_HIDDEN = "MOUSELEAVE_HIDDEN";
+export const CHANGE_PAGE = "CHANGE_PAGE";
+export const TOPIC_LIST = "TOPIC_LIST";
+export const MORE_LIST = "MORE_LIST";
+export const SRCOLL_TOP = "SRCOLL_TOP";

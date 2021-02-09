@@ -1,0 +1,173 @@
+{
+  "success": true,
+  "data": {
+    "topicList": [
+      {
+        "id": 1,
+        "title": "手绘",
+        "src_1x": "https://pic1.zhimg.com/50/v2-6d7725377a6d53c0edc8487140b6189d.webp",
+
+        "src_2x": "https://pic1.zhimg.com/50/v2-6d7725377a6d53c0edc8487140b6189d.webp ",
+        "src_3x": "https://pic1.zhimg.com/50/v2-6d7725377a6d53c0edc8487140b6189d.webp"
+      },
+      {
+        "id": 2,
+        "title": "社会热点",
+        "src_1x": "https://pic1.zhimg.com/50/v2-6d7725377a6d53c0edc8487140b6189d.webp",
+
+        "src_2x": "https://pic1.zhimg.com/50/v2-6d7725377a6d53c0edc8487140b6189d.webp ",
+        "src_3x": "https://pic1.zhimg.com/50/v2-6d7725377a6d53c0edc8487140b6189d.webp"
+      },
+      {
+        "id": 3,
+        "title": "简书电影",
+        "src_1x": "https://pic1.zhimg.com/50/v2-6d7725377a6d53c0edc8487140b6189d.webp",
+
+        "src_2x": "https://pic1.zhimg.com/50/v2-6d7725377a6d53c0edc8487140b6189d.webp ",
+        "src_3x": "https://pic1.zhimg.com/50/v2-6d7725377a6d53c0edc8487140b6189d.webp"
+      },
+      {
+        "id": 4,
+        "title": "读书",
+        "src_1x": "https://pic1.zhimg.com/50/v2-6d7725377a6d53c0edc8487140b6189d.webp",
+
+        "src_2x": "https://pic1.zhimg.com/50/v2-6d7725377a6d53c0edc8487140b6189d.webp ",
+        "src_3x": "https://pic1.zhimg.com/50/v2-6d7725377a6d53c0edc8487140b6189d.webp"
+      },
+      {
+        "id": 5,
+        "title": "摄影",
+        "src_1x": "https://pic1.zhimg.com/50/v2-6d7725377a6d53c0edc8487140b6189d.webp",
+
+        "src_2x": "https://pic1.zhimg.com/50/v2-6d7725377a6d53c0edc8487140b6189d.webp ",
+        "src_3x": "https://pic1.zhimg.com/50/v2-6d7725377a6d53c0edc8487140b6189d.webp"
+      },
+      {
+        "id": 6,
+        "title": "旅行 在路上",
+        "src_1x": "https://pic1.zhimg.com/50/v2-6d7725377a6d53c0edc8487140b6189d.webp",
+
+        "src_2x": "https://pic1.zhimg.com/50/v2-6d7725377a6d53c0edc8487140b6189d.webp ",
+        "src_3x": "https://pic1.zhimg.com/50/v2-6d7725377a6d53c0edc8487140b6189d.webp"
+      },
+      {
+        "id": 7,
+        "title": "历史",
+        "src_1x": "https://pic1.zhimg.com/50/v2-6d7725377a6d53c0edc8487140b6189d.webp",
+
+        "src_2x": "https://pic1.zhimg.com/50/v2-6d7725377a6d53c0edc8487140b6189d.webp ",
+        "src_3x": "https://pic1.zhimg.com/50/v2-6d7725377a6d53c0edc8487140b6189d.webp"
+      },
+      {
+        "id": 8,
+        "title": "美了",
+        "src_1x": "https://pic1.zhimg.com/50/v2-6d7725377a6d53c0edc8487140b6189d.webp",
+
+        "src_2x": "https://pic1.zhimg.com/50/v2-6d7725377a6d53c0edc8487140b6189d.webp ",
+        "src_3x": "https://pic1.zhimg.com/50/v2-6d7725377a6d53c0edc8487140b6189d.webp"
+      }
+    ],
+    "articleList": [
+      {
+        "id": 1,
+        "title": "鲁迅文章频频移出课本，为何会“去鲁迅化”？余华一句话点名原因",
+        "imgUrl": "https://pic3.zhimg.com/v2-3c70ad2237b1223f43106000db6cfe0a_720w.jpg?source=3af55fa1",
+        "desc": "虽然不想承认，但是鲁迅他的确对我有潜移默化的影响，我想他斐然的文笔是没有人愿意质疑的。---余华 文|公众号|颜小二述哲文 大多数喜欢文学的朋友...",
+        "diamonds": 12,
+        "auth": "颜小二舒哲文",
+        "commen": 1232,
+        "collection": 342
+      },
+      {
+        "id": 2,
+        "title": "恶心",
+        "imgUrl": "https://pic1.zhimg.com/v2-6844cf5d05cc4268a4a00a540f84f73c_400x224.jpeg",
+        "desc": "这世间当真有那潘金莲，只是让我不明白的是这种事究竟有什么好炫耀的？ 前段时间所谈到的，隔壁的女店员告诉我说她爱上了另外一个男人，那个男人...",
+        "diamonds": 12,
+        "auth": "颜小二舒哲文",
+        "commen": 1232,
+        "collection": 342
+      },
+      {
+        "id": 3,
+        "title": "戴望舒——在最美的时光里错过",
+        "imgUrl": "https://pic3.zhimg.com/50/v2-84a584db6e046bdd5b9bbce1c526a0f7_hd.jpg",
+        "desc": "虽然不想承认，但是鲁迅他的确对我有潜移默化的影响，我想他斐然的文笔是没有人愿意质疑的。---余华 文|公众号|颜小二述哲文 大多数喜欢文学的朋友...",
+        "diamonds": 12,
+        "auth": "颜小二舒哲文",
+        "commen": 1232,
+        "collection": 342
+      },
+      {
+        "id": 4,
+        "title": "戴望舒——在最美的时光里错过",
+        "imgUrl": "https://pic3.zhimg.com/50/v2-84a584db6e046bdd5b9bbce1c526a0f7_hd.jpg",
+        "desc": "虽然不想承认，但是鲁迅他的确对我有潜移默化的影响，我想他斐然的文笔是没有人愿意质疑的。---余华 文|公众号|颜小二述哲文 大多数喜欢文学的朋友...",
+        "diamonds": 12,
+        "auth": "颜小二舒哲文",
+        "commen": 1232,
+        "collection": 342
+      },
+      {
+        "id": 5,
+        "title": "戴望舒——在最美的时光里错过",
+        "imgUrl": "https://pic3.zhimg.com/50/v2-84a584db6e046bdd5b9bbce1c526a0f7_hd.jpg",
+        "desc": "虽然不想承认，但是鲁迅他的确对我有潜移默化的影响，我想他斐然的文笔是没有人愿意质疑的。---余华 文|公众号|颜小二述哲文 大多数喜欢文学的朋友...",
+        "diamonds": 12,
+        "auth": "颜小二舒哲文",
+        "commen": 1232,
+        "collection": 342
+      },
+      {
+        "id": 6,
+        "title": "戴望舒——在最美的时光里错过",
+        "imgUrl": "https://pic3.zhimg.com/50/v2-84a584db6e046bdd5b9bbce1c526a0f7_hd.jpg",
+        "desc": "虽然不想承认，但是鲁迅他的确对我有潜移默化的影响，我想他斐然的文笔是没有人愿意质疑的。---余华 文|公众号|颜小二述哲文 大多数喜欢文学的朋友...",
+        "diamonds": 12,
+        "auth": "颜小二舒哲文",
+        "commen": 1232,
+        "collection": 342
+      },
+      {
+        "id": 7,
+        "title": "戴望舒——在最美的时光里错过",
+        "imgUrl": "https://pic3.zhimg.com/50/v2-84a584db6e046bdd5b9bbce1c526a0f7_hd.jpg",
+        "desc": "虽然不想承认，但是鲁迅他的确对我有潜移默化的影响，我想他斐然的文笔是没有人愿意质疑的。---余华 文|公众号|颜小二述哲文 大多数喜欢文学的朋友...",
+        "diamonds": 12,
+        "auth": "颜小二舒哲文",
+        "commen": 1232,
+        "collection": 342
+      },
+      {
+        "id": 8,
+        "title": "戴望舒——在最美的时光里错过",
+        "imgUrl": "https://pic3.zhimg.com/50/v2-84a584db6e046bdd5b9bbce1c526a0f7_hd.jpg",
+        "desc": "虽然不想承认，但是鲁迅他的确对我有潜移默化的影响，我想他斐然的文笔是没有人愿意质疑的。---余华 文|公众号|颜小二述哲文 大多数喜欢文学的朋友...",
+        "diamonds": 12,
+        "auth": "颜小二舒哲文",
+        "commen": 1232,
+        "collection": 342
+      },
+      {
+        "id": 9,
+        "title": "戴望舒——在最美的时光里错过",
+        "imgUrl": "https://pic3.zhimg.com/50/v2-84a584db6e046bdd5b9bbce1c526a0f7_hd.jpg",
+        "desc": "虽然不想承认，但是鲁迅他的确对我有潜移默化的影响，我想他斐然的文笔是没有人愿意质疑的。---余华 文|公众号|颜小二述哲文 大多数喜欢文学的朋友...",
+        "diamonds": 12,
+        "auth": "颜小二舒哲文",
+        "commen": 1232,
+        "collection": 342
+      },
+      {
+        "id": 10,
+        "title": "戴望舒——在最美的时光里错过",
+        "imgUrl": "https://pic3.zhimg.com/50/v2-84a584db6e046bdd5b9bbce1c526a0f7_hd.jpg",
+        "desc": "虽然不想承认，但是鲁迅他的确对我有潜移默化的影响，我想他斐然的文笔是没有人愿意质疑的。---余华 文|公众号|颜小二述哲文 大多数喜欢文学的朋友...",
+        "diamonds": 12,
+        "auth": "颜小二舒哲文",
+        "commen": 1232,
+        "collection": 342
+      }
+    ]
+  }
+}
